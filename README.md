@@ -1,4 +1,4 @@
-# Estrategia de Aprendizaje Avanzado en Python y Java (24 Meses)
+# Estrategia de Aprendizaje Avanzado en Python y Java
 
 ![Estado](https://img.shields.io/badge/Estado-En%20Progreso-brightgreen)  
 ![Duración](https://img.shields.io/badge/Duración-24%20Meses-blue)  
